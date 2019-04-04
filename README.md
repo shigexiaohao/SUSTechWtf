@@ -11,7 +11,7 @@ SUSTechWtf？？？
 ---
 - 为项目提出新的想法或提案
 
-- 加入实名公开成员名单
+- 加入实名公开成员名单（[Honor List](honor_list.md)）
 
 - 为这个项目点亮 Star
 
