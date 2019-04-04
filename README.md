@@ -7,9 +7,9 @@ SUSTechWtf？？？
 
 SUSTechWTF站点
 ---
-[SUSTechWTF](https://www.sustech.wtf)是一个与本项目同步出现的项目，经发起者商议将两者合并。
+[SUSTech.WTF](https://www.sustech.wtf)是一个与本项目同步出现的项目，经发起者商议将两者合并。
 
-SUSTech.WTF是一个给南方科技大学同学们发声汇总的渠道，这里欢迎任何形式的Contribution，不管是情绪化的言论还是理智的建议都会在此接受，同时也会以类似于时间轴的形式记录各种南科大的大事件，舆论的变换等，很多优秀的Proposal也会被同步更新到[SUSTechWTF](https://www.sustech.wtf)站点上。
+SUSTech.WTF是一个给南方科技大学同学们发声汇总的渠道，这里欢迎任何形式的Contribution，不管是情绪化的言论还是理智的建议都会在此接受，同时也会以类似于时间轴的形式记录各种南科大的大事件，舆论的变换等，很多优秀的Proposal也会被同步更新到[SUSTech.WTF](https://www.sustech.wtf)站点上。
 
 本次这个站点的建立主要是因为荔园与欣园的同学即将迁入新寝室，但新寝室条件过于“感人”所致，所以目前会以收集本次事件的资料为主，后续会补充类似于“步道乐跑”，“贺建奎”等事件的信息。
 
