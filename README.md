@@ -9,8 +9,6 @@ SUSTechWtf
 ---
 [SUSTech.WTF 站点](https://www.sustech.wtf): 详情请见下面的[介绍](#sustechwtf站点介绍)
 
-[SUSTech.ICU 站点](http://sustech.icu)
-
 TODO
 ---
 - [ ] 关于南科大热点事件周期性发生与同质化演变的思考
